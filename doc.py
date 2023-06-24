@@ -82,7 +82,7 @@ instance_username = 'ec2-user'
 instance_private_key_path = 'C:/Users/Sineth/Desktop/newdoc23.pem'
 repo_directory = 'software-industry-competitor'
 repo_url = 'https://github.com/tahakhawaja/software-industry-competitor.git'
-openai_api_key = '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'
+openai_api_key = 'yourapikey'
 repo_name = 'software-industry-competitor'
 
 
